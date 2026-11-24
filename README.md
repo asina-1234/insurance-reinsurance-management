@@ -88,4 +88,6 @@ reinsurance treaty allocations, with an admin dashboard.
 ## 👩‍💻 Author
 
 **Asina Begam**
-[LinkedIn](www.linkedin.com/in/asina-begam-709171383) | [GitHub](https://github.com/asina-1234)
+[GitHub](https://github.com/asina-1234)
+
+Linked In URL : www.linkedin.com/in/asina-begam-709171383
